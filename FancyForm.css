@@ -1,0 +1,134 @@
+/*
+ * Stylesheet for the FancyForm extension
+ *
+ * By Juan Valencia
+ *
+*/
+
+.FancyForm {
+	margin:0 auto;
+	width:600px;
+	background:#232323;
+	border:1px solid #242424;
+}
+
+.FancyInputHeader {
+	color:#ffffff;
+	font-size:1.5em;
+	padding:10px 10px 10px 10px;
+	margin:0 0 0 0;
+	border-bottom:3px solid #444444;
+	border-top:1px solid #181818;
+}
+
+.FancyInputParam {
+	color:#eeeeee;
+	font-size:1.2em;
+	padding:0px 0px 0px 20px;
+	text-align:right;
+}
+
+.FancyInputText {
+	width:550px;
+	color:#ffffff;
+	padding:5px 5px 5px 5px;
+	margin:5px 5px 5px 20px;
+	background:#333333;
+	border-top:1px solid #181818;
+	border-bottom:1px solid #181818;
+	border-left:1px solid #444444;
+	border-right:1px solid #444444;
+}
+
+.FancyInputSelect {
+
+	width:550px;
+	color:#ffffff;
+	padding:5px 5px 5px 5px;
+	margin:5px 5px 5px 20px;
+	background:#333333;
+	border-top:1px solid #181818;
+	border-bottom:1px solid #181818;
+	border-left:1px solid #444444;
+	border-right:1px solid #444444;
+
+}
+
+.FancyInputSpan {
+	font-size:.85em;
+	color:#aaaaaa;
+	padding:4px 10px 10px 20px;
+	text-align:right;
+}
+
+.FancyInputTextArea {
+	height:200px;
+	width:550px;
+	color:#ffffff;
+	padding:5px 5px 5px 5px;
+	margin:5px 5px 5px 20px;
+	background:#333333;
+	border-top:1px solid #181818;
+	border-bottom:1px solid #181818;
+	border-left:1px solid #444444;
+	border-right:1px solid #444444;
+}
+
+.FancyInputLabel {
+	background:#1e1e1e;
+	width:100%;
+	display:block;
+	border-top:1px solid #262626;
+	border-botton:1px solid #171717;
+	padding:10px 0 10px 0;
+}
+
+.FancyInputSubmit {
+	background:#C00000;
+	padding:6px 6px 6px 0px;
+	border=0;
+	float:right;
+	margin:0px 20px 20px 0px;
+	font-size:1.2em;
+	border:1px double #660000;
+	border-left:1px double #FF0033;
+	border-right:1px double #FF0033;
+	color:#ffffff;
+}
+
+.FancyInputSubmit:hover {
+	background:#C03333;
+	color:#eeeeee;
+}
+
+.FancyFormUploadButton {
+	text-decoration:none;
+	background:gray;
+	color:white;
+	width:100px;
+	text-align:center;
+	border-top:2px solid #666666;
+	border-bottom:2px solid #666666;
+	border-left:2px solid #999999;
+	border-right:2px solid #999999;
+	margin:13px 20px 10px 0px;
+	padding:5px 7px 5px 7px;
+	float:right;
+	clear:both;
+}
+
+.FancyFormUploadButton:hover {
+	text-decoration:none;
+	background:darkgray;
+}
+
+.FormUploadDiv a {
+	color:lightblue;
+	margin-left: 23px;
+	margin-top: 15px;
+}
+
+.FancyFormSpacer {
+	height:1px;
+	clear:both;
+}
